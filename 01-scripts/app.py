@@ -1,4 +1,4 @@
-x = 2
-y = 3
+x = 12
+y = 8
 z = x + y
 print(z)
